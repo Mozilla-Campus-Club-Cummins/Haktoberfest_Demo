@@ -1,0 +1,25 @@
+1. Trapping Water: 
+https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+
+2. Minimum Platforms:
+https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+
+3. mirror tree:
+https://practice.geeksforgeeks.org/problems/mirror-tree/1?page=5&category[]=Data%20Structures&category[]=Advanced%20Data%20Structure&sortBy=submissions
+
+4. Rotten Oranges:
+https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1?page=10&category[]=Data%20Structures&category[]=Advanced%20Data%20Structure&sortBy=submissions
+
+5. No. of possible triangles
+https://practice.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1?page=11&category[]=Data%20Structures&category[]=Advanced%20Data%20Structure&sortBy=submissions
+
+6. Josephus problem
+https://practice.geeksforgeeks.org/problems/josephus-problem/1?page=11&category[]=Data%20Structures&category[]=Advanced%20Data%20Structure&sortBy=submissions
+
+7. Ishan loves chocolates
+https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1?page=17&category[]=Data%20Structures&category[]=Advanced%20Data%20Structure&sortBy=submissions
+
+8. Save Ironan
+https://practice.geeksforgeeks.org/problems/save-ironman0227/1?page=17&category[]=Data%20Structures&category[]=Advanced%20Data%20Structure&sortBy=submissions
+
+9. 
